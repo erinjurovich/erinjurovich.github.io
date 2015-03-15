@@ -1,5 +1,6 @@
 body {
-	background-color: #CC99FF;
+	background: url(images/yarned_and_dangerous_main_image2);
+	background-size: cover;
 	color: #FFFFFF;
 }
 h1 {
