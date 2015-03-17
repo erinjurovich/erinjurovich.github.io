@@ -1,14 +1,11 @@
-{margin:0; padding:0; box-sizing:border-box;}
 body {
+	background-color: #CC99FF;
 	color: #FFFFFF;
-	
 }
 h1 {
 	font-size: 80px;
 	font-family: 'Fontdiner Swanky', cursive;
-	text-align: center;
 }
-p {
-	font-size: 50px;
+h1, p {
 	text-align: center;
 }
