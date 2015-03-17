@@ -1,6 +1,9 @@
 body {
-	background-color: #CC99FF;
 	color: #FFFFFF;
+	background-image: url(/images/closeup_yarn_image.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 h1 {
 	font-size: 80px;
