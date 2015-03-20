@@ -1,12 +1,16 @@
 body {
+	font-size:16px;
+}
+section#splash {
 	color: #FFFFFF;
 	background-image: url(/images/closeup_yarn_image.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
+	height:100vh;
 }
 h1 {
-	font-size: 80px;
+	font-size: 5em;
 	font-family: 'Fontdiner Swanky', cursive;
 	text-align: center;
 }
@@ -14,15 +18,14 @@ hr {
 	width: 400px;
 }
 p {
-	font-size: 30px;
+	font-size: 2em;
 	text-align: center;
 }
-section#slogan {
-	font-size: 70px;
+#slogan {
+	font-size: 4em;
 	text-align: center;
 	font-style: italic;
 }
 section#contactme {
-	font-size: 40px;
 	text-align: center;
 }
