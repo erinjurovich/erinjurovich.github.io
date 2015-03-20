@@ -1,3 +1,4 @@
+*{margin:0;padding:0;box-sizing:border-box;}
 body {
 	font-size:16px;
 }
@@ -14,12 +15,8 @@ h1 {
 	font-family: 'Fontdiner Swanky', cursive;
 	text-align: center;
 }
-hr {
-	width: 400px;
-}
 p {
-	font-size: 2em;
-	text-align: center;
+	font-size: 1em;
 }
 #slogan {
 	font-size: 4em;
@@ -27,5 +24,4 @@ p {
 	font-style: italic;
 }
 section#contactme {
-	text-align: center;
 }
