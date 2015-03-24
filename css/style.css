@@ -9,9 +9,10 @@ section#splash {
 	background-size: cover;
 	background-repeat: no-repeat;
 	height:100vh;
+	padding:1em 0em 2em 0em;
 }
 section#welcome {
-	color:#FF99FF;
+	background:#FF99FF;
 }
 h1 {
 	font-size: 5em;
