@@ -11,7 +11,7 @@ section#splash {
 	height:50vh;
 	padding:3em 0em;
 }
-section#welcome {
+#welcome {
 	background:#FF99FF;
 }
 h1 {
@@ -32,10 +32,17 @@ p {
 	font-style: italic;
 	font-family: 'Fontdiner Swanky', cursive;
 }
-section#contactme {
+#contactme {
 }
 .columns {
 	float:left;
 	padding:0 1em;
 	width:33.33%;
+}
+.clearfix:after {
+	content:".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
 }
